@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reckless.Eatery</title>
     <style>
         /* Reset & Global Styles */
         * {
@@ -120,7 +119,6 @@
 </head>
 
 <body>
-    <h1>Welcome to Reckless.Eatery</h1>
 
     <div class="image-container">
         <!-- Image Rows -->
