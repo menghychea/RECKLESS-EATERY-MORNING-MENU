@@ -120,7 +120,6 @@
 </head>
 
 <body>
-    <h1>Welcome to Reckless.Eatery</h1>
 
     <div class="image-container">
         <!-- Image Rows -->
